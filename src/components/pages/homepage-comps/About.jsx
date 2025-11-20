@@ -14,10 +14,16 @@ const About = () => {
                         <h2 className='text-4xl sm:text-5xl font-bold inline border-b-4 border-primary-color/40'>About me</h2>
                     </div>
 
-                    <p className="mb-4 py-6">Hey! I'm Based on Kolkata and I'm Professional in Frontend Development with more than 3 years of Experience as UI and Frontend Developer, Worked with Start-up and MNC Company Mphasis LTD India, Strong Understanding and Skilled in HTML5, CSS3, Bootstrap5, Web Application Development, JavaScript, ES6, React JS and eCommerce Design & Development and Responsive Web Design with hands-on API Integration to Server Side Using AJAX, Fetch-API, Axios. However, I felt that I had the potential for more, so my intellectual curiosity led me to enter into the world of programming.
+                    <p className="mb-4 py-6">Hey! I'm Prakash Verma, a dedicated Full-stack Developer currently pursuing my M.Tech from IIT Patna. Alongside my academic journey, I bring 1.8 months of professional experience as an Associate Software Engineer, where I worked on real-world applications and strengthened my foundations in JavaScript, ReactJS, Node.js, and modern web development. 
+
+                    <p>
+
+I also did a 4-month full-stack development internship, where I am actively working with ReactJS, ExpressJS, JWT authentication, MongoDB, and REST APIs. Over time, I've developed a strong interest in building user-friendly interfaces, optimized backend systems, and secure web applications. </p>
+
+I enjoy solving problems, learning new technologies, and writing clean, maintainable code. When I'm not coding, I explore UI/UX ideas, improve my English communication, and work on personal projects that help me grow as a developer.
                     </p>
 
-                    <p>Thanks to my creativity, my attention to detail and my determination, I realized that I have a great talent for developing web applications. I am fascinated by this great world of technologies and possibilities, and I am sure that I will be able to create incredible projects both professionally and personally with you.</p>
+                    <p>Thanks to my creativity, my attention to detail and my determination, I realized that I have a great talent for developing web full stack applications. I am fascinated by this great world of technologies and possibilities, and I am sure that I will be able to create incredible projects both professionally and personally with you.</p>
 
                     <a href='/images/Resume.pdf' className='text-black font-semibold text-[16px] w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-t from-green-400 to-primary-color cursor-pointer mx-auto md:mx-0 self-end mt-8 hover:scale-110 duration-300'>
                         Get Resume

@@ -1,17 +1,42 @@
-# Frontend Developer Portfolio - Diego Téllez
+### 👋 Hi, I'm Prakash Verma
+##
+**Full-stack Developer | M.Tech @ IIT Patna**
 
-This is my 2023 portfolio. Here you can download my resume and check out all the relevant information about the projects I've done and the technologies I work with.
+##
+I'm a passionate Full-stack Developer with experience in ReactJS, Node.js, Express, and MongoDB.  
+I have **1.8 months of experience as an Associate Software Engineer** and I'm currently pursuing **M.Tech (Hybrid) from IIT Patna**, along with a **4-month full-stack internship**.
 
-## Design
+I enjoy building clean UI, scalable backend systems, and secure authentication workflows using JWT.  
+Always learning, always improving. 🚀
 
-![Scremshot](https://imgur.com/oYVnpcK.png)
+## 🚀 About Me
+
+I'm **Prakash Verma**, a dedicated Full-stack Developer currently pursuing my **M.Tech (Hybrid) from IIT Patna**.  
+I have **1.8 months of professional experience** as an Associate Software Engineer, where I worked on production-level applications using modern JavaScript technologies.
+
+I'm also doing a **4-month full-stack internship**, actively working with:
+
+- ReactJS + Vite  
+- Node.js & Express.js  
+- MongoDB  
+- JWT-based authentication  
+- Full-stack app development with protected routes  
+- UI/UX improvements & frontend optimizations  
+
+I love creating user-friendly interfaces and secure backend systems.  
+I constantly learn new technologies and build personal projects to sharpen my skills.
+
+Outside of coding, I enjoy exploring UI ideas, improving my communication, and working on projects that challenge me creatively.
+
+
+
+## Screenshots
+
+![Scremshot](.\src\assets\screenshots\home.png)
 
 ![Screamshot](https://imgur.com/Th9089F.png)
 
 
-
-**Do you want me to design a portfolio like this for you? Do not hesitate to contact me.**
-[Go to my portfolio](https://github.com/oscar91511/portfolio "portfolio"). 
 
 ## Sections
 
@@ -46,5 +71,5 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
 ## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+MIT
+<!-- [MIT](https://choosealicense.com/licenses/mit/) -->
