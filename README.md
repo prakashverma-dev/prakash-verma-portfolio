@@ -4,7 +4,7 @@
 
 ##
 I'm a passionate Full-stack Developer with experience in ReactJS, Node.js, Express, and MongoDB.  
-I have **1.8 months of experience as an Associate Software Engineer** and I'm currently pursuing **M.Tech (Hybrid) from IIT Patna**, along with a **4-month full-stack internship**.
+I have **1.8 months of experience as an Associate Software Engineer** and I'm currently pursuing **M.Tech from IIT Patna**, along with a **4-month full-stack internship**.
 
 I enjoy building clean UI, scalable backend systems, and secure authentication workflows using JWT.  
 Always learning, always improving. 🚀
