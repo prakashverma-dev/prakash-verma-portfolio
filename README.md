@@ -32,7 +32,8 @@ Outside of coding, I enjoy exploring UI ideas, improving my communication, and w
 
 ## Screenshots
 
-![Scremshot](.\src\assets\screenshots\home.png)
+![HomePage](./src/assets/screenshots/home.png) 
+<br/>
 
 ![Screamshot](https://imgur.com/Th9089F.png)
 
