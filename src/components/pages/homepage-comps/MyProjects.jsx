@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { ModalInfo } from "../../ModalInfo";
 import ProjectCard from "../../ProjectCard";
-import projects from "../../../utils/constants";
+import projects from "../../../utils/projectStaticImages";
 
 const MyProjects = () => {
   const [modalIsOpen, setModalIsOpen] = useState(false);

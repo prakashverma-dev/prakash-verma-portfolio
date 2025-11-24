@@ -18,7 +18,7 @@ const GeneralFooter = () => {
                 </a> */}
             </div>
 
-            <p className='md:order-2'>• Copyright ©2024 | All rights reserved • </p>
+            <p className='md:order-2'>• Copyright ©2025 | All rights reserved • </p>
             <p>@Prakash-Verma</p>
         </footer>
     )
