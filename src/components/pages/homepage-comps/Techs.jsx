@@ -4,6 +4,7 @@ import css from "../../../assets/css.png";
 import javascript from "../../../assets/javascript.png";
 import react from "../../../assets/react.png";
 import vue from "../../../assets/vue.png";
+import postgres from "../../../assets/postgres.png";
 import git from "../../../assets/git.png";
 import github from "../../../assets/github.png";
 import node from "../../../assets/node.png";
@@ -15,6 +16,8 @@ import es6 from "../../../assets/ES6.png";
 import bootstrap from "../../../assets/bootstrap.png";
 import axios from "../../../assets/axios.png";
 import npm from "../../../assets/npm.png";
+import expressjs from "../../../assets/expressjs.png";
+import mongodb from "../../../assets/mongodb.png";
 import { Link as ScrollLink } from "react-scroll";
 
 const Techs = () => {
@@ -38,10 +41,10 @@ const Techs = () => {
       style: "shadow-yellow-400",
     },
     {
-      id: 4,
-      src: es6,
-      title: "ECMAScript6",
-      style: "shadow-yellow-400",
+      id: 16,
+      src: expressjs,
+      title: "ExpressJS",
+      style: "shadow-cyan-400",
     },
     {
       id: 13,
@@ -50,17 +53,42 @@ const Techs = () => {
       style: "shadow-cyan-400",
     },
     {
+      id: 4,
+      src: es6,
+      title: "ECMAScript",
+      style: "shadow-yellow-400",
+    },
+    {
+      id: 17,
+      src: mongodb,
+      title: "MongoDB",
+      style: "shadow-yellow-400",
+    },
+    {
+      id: 18,
+      src: postgres,
+      title: "PostgreSQL",
+      style: "shadow-cyan-500",
+    },
+    {
+      id: 11,
+      src: mySQL,
+      title: "MySQL",
+      style: "shadow-blue-400",
+    },
+    {
       id: 5,
       src: bootstrap,
       title: "Bootstrap",
       style: "shadow-emerald-500",
     },
     {
-      id: 6,
-      src: materialUI,
-      title: "Material UI",
-      style: "shadow-cyan-700",
+      id: 12,
+      src: redux,
+      title: "Redux",
+      style: "shadow-violet-700",
     },
+   
     {
       id: 7,
       src: node,
@@ -91,12 +119,7 @@ const Techs = () => {
       title: "Axios",
       style: "shadow-violet-700",
     },
-    {
-      id: 12,
-      src: redux,
-      title: "Redux",
-      style: "shadow-violet-700",
-    },
+   
     {
       id: 15,
       src: npm,
@@ -104,11 +127,12 @@ const Techs = () => {
       style: "shadow-violet-700",
     },
     {
-      id: 11,
-      src: mySQL,
-      title: "MySQL",
-      style: "shadow-blue-400",
+      id: 6,
+      src: materialUI,
+      title: "Material UI",
+      style: "shadow-cyan-700",
     },
+   
   ];
 
   return (

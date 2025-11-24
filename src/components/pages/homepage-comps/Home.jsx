@@ -44,7 +44,7 @@ const Home = () => {
           <img
             src="/images/my-image.jpg"
             alt="My profile"
-            className="mb-2 rounded-2xl mx-auto w-48 sm:w-50 md:w-72 lg:w-80 object-cover shadow-2xl shadow-primary-color/20"
+            className="mb-2 rounded-2xl mx-auto w-40 sm:w-40 md:w-72 lg:w-80 object-cover shadow-2xl shadow-primary-color/20"
             style={{ filter: "drop-shadow(0px -4px 4px rgba(0, 255, 0, 0.5))" }}
           />
 
