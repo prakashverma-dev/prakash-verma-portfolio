@@ -18,7 +18,7 @@ const Home = () => {
             Full-stack Developer | MERN | M.Tech @ IIT Patna 
           </h2>
           <p className="text-gray-300 py-4 max-x-md text-justify">
-           I'm a passionate Full-stack Developer with hands-on experience in ReactJS, Node.js, ExpressJS, and MongoDB. I have 1.8 months of experience as an Associate Software Engineer, and I'm currently pursuing M.Tech from IIT Patna, along with a 4-month full-stack internship. <br />
+           I'm a passionate Full-stack Developer with hands-on experience in ReactJS, Node.js, ExpressJS, and MongoDB. I have 1.8 years of experience as an Associate Software Engineer, and I'm currently pursuing M.Tech from IIT Patna, along with a 4-month full-stack internship. <br />
           I love building clean UI, scalable backend systems, and bringing ideas to life through code. Welcome to My Portfolio , I'm excited to share My Journey
             with you!
           </p>
