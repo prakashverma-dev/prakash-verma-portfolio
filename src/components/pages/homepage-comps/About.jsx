@@ -14,7 +14,7 @@ const About = () => {
                         <h2 className='text-4xl sm:text-5xl font-bold inline border-b-4 border-primary-color/40'>About me</h2>
                     </div>
 
-                    <p className="mb-4 py-6">Hey! I'm Prakash Verma, a dedicated Full-stack Developer currently pursuing my M.Tech from IIT Patna. Alongside my academic journey, I bring 1.8 months of professional experience as an Associate Software Engineer, where I worked on real-world applications and strengthened my foundations in JavaScript, ReactJS, Node.js, and modern web development. 
+                    <p className="mb-4 py-6">Hey! I'm Prakash Verma, a dedicated Full-stack Developer currently pursuing my M.Tech from IIT Patna. Alongside my academic journey, I bring 1.8 years of professional experience as an Associate Software Engineer, where I worked on real-world applications and strengthened my foundations in JavaScript, ReactJS, Node.js, and modern web development. 
 
                     <p>
 
