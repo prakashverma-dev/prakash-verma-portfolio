@@ -61,15 +61,15 @@ const projects = [
     code: "https://github.com/TheVermaVD/Realtime-Projects/tree/main/8.Calculator",
   },
 
-  {
-    id: 7,
-    title: "e-commerce Application",
-    description: "Developed E-commerce application with React JS and Tailwind CSS for product displaying and Add to cart feature with checkout for ordered products.",
-    technologies: "Javascript, React, Redux, Tailwind CSS",
-    src: "/images/projectsImages/ecommerce.png",
-    demo: "https://e-commerce-modern.netlify.app/",
-    code: "https://github.com/TheVermaVD/Ecommerce-Website",
-  },
+  // {
+  //   id: 7,
+  //   title: "e-commerce Application",
+  //   description: "Developed E-commerce application with React JS and Tailwind CSS for product displaying and Add to cart feature with checkout for ordered products.",
+  //   technologies: "Javascript, React, Redux, Tailwind CSS",
+  //   src: "/images/projectsImages/ecommerce.png",
+  //   demo: "https://e-commerce-modern.netlify.app/",
+  //   code: "https://github.com/TheVermaVD/Ecommerce-Website",
+  // },
 
 ];
 
