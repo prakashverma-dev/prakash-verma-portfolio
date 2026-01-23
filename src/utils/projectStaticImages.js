@@ -5,7 +5,7 @@ const projects = [
     description: "A full-stack URL Shortener built with Node.js, Express, EJS, and MongoDB Atlas. Supports user signup/login with JWT authentication, bcrypt-secured passwords, and dynamic short link generation.",
     technologies: "Node.js, Express, EJS, and MongoDB Atlas, Tailwind CSS",
     src: "/images/projectsImages/urlShort.png",
-    demo: "https://bitly.up.railway.app/",
+    demo: "https://bitly-9qpz.onrender.com/",
     code: "https://github.com/prakashverma-dev/URL-Shortner-with-Analytics",
   },
   {
